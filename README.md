@@ -2,12 +2,13 @@
 Mi nombre es Luis Fernando Riveros Orozco.
 ## INTRODUCCION
 Se tienen datos que corresponden 16 series de tiempo para la altura de un tanque en funcion del ciclo de trabajo de una bomba. Cada serie de tiempo posee diferente cantidad de muestras, entre 15-20.
+![image](https://user-images.githubusercontent.com/71291574/171816041-ac0dbfdb-a462-481c-84c8-81f7c202e840.png)
 
 Los datos fueron obtenidos a partir de un modelo desarrollado en SIMSCAPE un toolbox de simulink-Matlab.
 
 Las etiquetas iniciales son, Altura del tanque, Ciclo de trabajo de la bomba, Numero de muestra.
 
-Se planea, aplicar control preddictivo a diferentes parametros de un tanque, por eso los datos se deben usar para poder modelar la funcion de transferencia de la planta.
+Se planea, aplicar control predictivo a diferentes parametros de un tanque, por eso los datos se deben usar para poder modelar la funcion de transferencia de la planta.
 
 Para esto, se plantea usar redes neuronales por series de tiempo.
 
