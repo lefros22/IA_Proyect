@@ -57,4 +57,4 @@ Las tecnicas aplicadas como PCA me permiten agilizar el proceso de busqueda de h
 ## Video
 
 Link:
-
+https://youtu.be/VtLhmKSB7Io
